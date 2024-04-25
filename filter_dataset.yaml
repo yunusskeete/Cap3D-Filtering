@@ -1,0 +1,11 @@
+encoding: "utf-8"
+excluded_categories:
+  - "Appliances"
+  - "Kitchenware"
+  - "Outdoor"
+  - "Miscellaneous"
+paths:
+  captions: "captions/Cap3D_automated_Objaverse_full.csv"
+  keywords_by_category: "keywords/keywords_by_category.json"
+  included_ids: "ids/included_ids.json"
+  excluded_ids: "ids/excluded_ids.json"
